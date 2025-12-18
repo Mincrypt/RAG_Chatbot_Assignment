@@ -189,9 +189,5 @@ What is the most purchased product?
 
 ## 👨‍💻 Author
 
-Built as a **senior-level AI/ML assignment project** using Python & Streamlit.
-
----
-
-✅ **Ready for submission**
+Built as a **Entry-level AI/ML assignment project** using Python & Streamlit.
 
