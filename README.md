@@ -168,11 +168,15 @@ https://tratbot.streamlit.app/
 ```
 Amit total spending
 ```
+```
 Show me Riya’s purchase history
+```
 ```
 Mobile kis kis ne kharida?
 ```
+```
 Mobile kitne me kharida?
+```
 ```
 What is the most purchased product?
 ```
